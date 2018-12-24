@@ -1,0 +1,6 @@
+framework module Pods_ClusterBean_MapViewUITests {
+  umbrella header "Pods-ClusterBean MapViewUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
